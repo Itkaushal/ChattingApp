@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="phone" type="id" />
+    <item name="password" type="id" />
+    <item name="Login" type="id" />
+</resources>
